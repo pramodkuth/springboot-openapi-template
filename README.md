@@ -1,4 +1,4 @@
-# 🧾 Order Management Service (OMS) — Spring Boot + OpenAPI Template
+# Spring Boot + OpenAPI Template
 
 A clean, versioned Spring Boot template for building RESTful APIs with Swagger (Springdoc OpenAPI), grouped documentation, and custom headers — perfect for microservices or API-first projects.
 
